@@ -62,4 +62,4 @@ got top 3 in my app to learn coding and 1# on my other account where learning lu
 html and css is also easy and can be fully learned in ~35 days to be web designer that can earn 20$ from one request to make site and i can make apps already without even learning it but javascript normally can take 5 - 7 months to make normal things
 backend can give heart with live to frontend application so i selected ruby for data/databases.
 
-my first nightmare after chilling in c# on someone exploit-apis and done im 'senior' dev wa
+my first nightmare after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
