@@ -56,10 +56,18 @@ returned: false
 
 # First results. (#4)
 this is all results of days 2 - 4, nothing really was changed from this time periods. was learning JS, HTML, Ruby and C#
-i got some compilated tasks in web app where i learning for C# but i completed it in like after ~7 mins. ruby is like ez but (sorry) 'trash' with ruby i cant even make executor (hope there's lib that can access with memory). (day 2 - 3) 
+i got some complicated tasks in web app where i learning for C# but i completed it in like after ~7 mins. ruby is like ez but (sorry) 'trash' with ruby i cant even make executor (hope there's lib that can access with memory). (day 2 - 3) 
 
 got top 3 in my app to learn coding and 1# on my other account where learning lua/luau idk why this looks so easy for me
 html and css is also easy and can be fully learned in ~35 days to be web designer that can earn 20$ from one request to make site and i can make apps already without even learning it but javascript normally can take 5 - 7 months to make normal things
 backend can give heart with live to frontend application so i selected ruby for data/databases.
 
 my first nightmare after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
+
+# More (#5)
+currently im more leaning on documentations. nothing new for today because exams. in js here's unique things like == and ===, in ruby 'unless' operator
+
+and more. maybe in next day i will go nim or zig and after golang 
+these 3 languages have syntax that i never seen before
+
+also recomendded this site for learning languages - learnxinyminutes.com
