@@ -2,6 +2,7 @@
 i love memory managing, like write/read other procs mem
 and web-developement also too! so today im learning some new languages (for me and my knowledges)
 read messages below.
+I KNOW. this looks like im clown trying to learn something and you reading it. but my coding skills was really bad so i tried an a my own experiment to rank up from junior who knows only language basics and small things to middle/senior.   
 
 # The start. (#1)
 learned abt ruby less than one week (~7 days) ago. the main problem that im writing code on for one min C# (knowed as a csharp)
@@ -71,3 +72,13 @@ and more. maybe in next day i will go nim or zig and after golang
 these 3 languages have syntax that i never seen before
 
 also recomendded this site for learning languages - learnxinyminutes.com
+
+# First changes (#8)
+this is my logs for day 5 - 8, in c# i learned how to work with arrays (by array class), counting, basic math and more. 
+completed first part of c#, [view](https://coddy.tech/certifications/XA2TGB-csharp-dAHyUu)
+
+got almost every task in first attempt. also now im learning smarter on 3/7 when 1yr ago it was overloaded on 9/7 (it was 20 hrs/day for all my plans and ofc i cant just sleep 4 hours)
+
+2 days left untill all my exams will end. and only in 3 months i learned alot of things (saying again). who dont knows i was learning reverse engineering also too# and i already hacked very big services that earns for example ~10.000$/year (not jk) learned how to use d.i.e (detect it easy), learned memory management with other procs, web-styling, listening/hosting, burping, sql injections, learned what is roblox lua bytecode and what is XOR Keys,. etc.
+
+and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
