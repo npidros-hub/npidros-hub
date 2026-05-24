@@ -82,3 +82,8 @@ got almost every task in first attempt. also now im learning smarter on 3/7 when
 2 days left untill all my exams will end. and only in 3 months i learned alot of things (saying again). who dont knows i was learning reverse engineering also too# and i already hacked very big services that earns for example ~10.000$/year (not jk) learned how to use d.i.e (detect it easy), learned memory management with other procs, web-styling, listening/hosting, burping, sql injections, learned what is roblox lua bytecode and what is XOR Keys,. etc.
 
 and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
+
+# News (#10)
+sad news but currently i left from coding in dart. also my latest exam will be already in some hours (math helped me very much with coding)
+
+and in result changing to C (will be my worst nightmare ever) but it helps in assembly and reverse engineering. thx for reading
