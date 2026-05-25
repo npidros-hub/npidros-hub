@@ -7,7 +7,7 @@
 * speaking on russian/english language, my list of programming languages:
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="32" />
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="30" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/066/386/005/small/the-html5-logo-with-the-number-5-in-the-center-free-png.png" height="30" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaxu0x-zFmbSio7OTnbZ6ALHq0Yb-pjluzA&s" height="30" />
@@ -18,6 +18,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="30" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_cpZUqECHMUmhiW2NA5Iv0N5wH2icz1sVg&s" height="30" />
-  <img src="https://static.cdnlogo.com/logos/d/66/dart.svg" height="30" />
-  <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" height="30" />
 </p>
