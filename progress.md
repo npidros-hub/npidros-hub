@@ -40,7 +40,9 @@ else ... end
 </p>
 
 > eazier syntax (# instead of //)
+
 > for web, databases, data structures, etc.
+
 > ruby knowledge needed to reverse my utils
 
 ## Plans in future
