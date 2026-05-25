@@ -83,7 +83,15 @@ got almost every task in first attempt. also now im learning smarter on 3/7 when
 
 and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
 
-# News (#10)
+# News (#11)
 sad news but currently i left from coding in dart. also my latest exam will be already in some hours (math helped me very much with coding)
 
 and in result changing to C (will be my worst nightmare ever) but it helps in assembly and reverse engineering. thx for reading
+
+writing this after day, left from one more language (GO)
+i really burned out with all my languages. so i decided to left from one more
+
+not forgot about programming and today i learned JSON library from ruby, writted my first hi world program in nim. also learned a little about SQL in ruby
+
+i will use nim to do things like: disabling windows defender (if false detections will occur), hiding and obfuscating something, more. 
+
