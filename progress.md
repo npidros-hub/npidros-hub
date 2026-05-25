@@ -76,7 +76,7 @@ completed first part of c#, [certificate](https://coddy.tech/certifications/XA2T
 
 > got almost every task in first attempt. also now im learning smarter on 3/7 when 1yr ago it was overloaded on 9/7
 
-two days left untill all my exams will end. learned alot of things in spring period from school/pc/documentations, who dont knows im learning reverse engineering too. hacked even most obfuscated exe/dll/web services, listening/hosting, burping, injections, xor keys, bytecode stuff, etc.
+two days left untill all my exams will end. learned alot of things in spring period from school/pc/documentations, who dont knows im learning reverse engineering too. got source of even most obfuscated exe/dll/web services, listening/hosting, burping, injections, xor keys, bytecode stuff, etc.
 
 and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
 
@@ -87,8 +87,7 @@ and in result changing to C (will be my worst nightmare ever) but it helps in as
 
 (day 11)
 
-*skipped latest day in school :( 
-^for note next exam only in ~5 months
+completed all exams, next will be in ~6 months
 
 writing this after day, left from one more language (GO)
 really burned out with all my languages. so i decided to left from one more
@@ -96,13 +95,13 @@ i dont see something big here. in the fact both projects (GO, Dart) was created 
 
 i dont know good points in google programming languages
 
-not forgot about learning too and today i learned JSON library from ruby, writted my first hi world program in nim and basic math (nim is unique). also learned a little about SQL in ruby
+not forgot about learning too and today i learned JSON library from ruby, writted my first hi world program in nim and basic math (nim is unique). also learned a little about SQL in ruby (+ ruby hashing / json hashing)
 
-i will use nim to do things like: disabling windows defender (if false detections will occur), hiding and obfuscating something, more. 
+i will use nim to do things like: disabling windows defender (if false detections will occur), hiding and obfuscating tools to make it ud, more. 
 
-sad but still good day*~* **thanks for reading again.**
+sad but still good day # **thanks for reading again.**
 (and also thanks for reaching 100 lines by reading this)
 
 <p align="left">
- <img width="200px" src="left.png" alt="qr"/>
+ <img width="200px" src="left.png" alt="trash"/>
 </p>
