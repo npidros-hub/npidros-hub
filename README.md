@@ -2,7 +2,7 @@
 
 ### Some Info:
 * my name is alex :)! and im exploit dev
-* know main design things, why your UI is 10/10 for you and 4.0/10 for others
+* know design too
 * favorite game is roblox. here's list of the languages i enjoyed
 * speaking on russian/english language, my list of programming languages:
 
