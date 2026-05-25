@@ -4,33 +4,25 @@ and web-developement also too! so today im learning some new languages (for me a
 read messages below.
 I KNOW. this looks like im clown trying to learn something and you reading it. but my coding skills was really bad so i tried an a my own experiment to rank up from junior who knows only language basics and small things to middle/senior.   
 
-# The start. (#1)
-learned abt ruby less than one week (~7 days) ago. the main problem that im writing code on for one min C# (knowed as a csharp)
-and ruby cant be connected with a C# .dll! this thing can be fixed by hosting on localhost: on user pc, after when - we need to do something (for example run function)
-c# will send request to this localhost: and ruby will read ts req-msg, after it will accept it and do it on user pc (ik sorry if unreadable, bc im not speaking on en language)
+# Week One (#1)
+I’ve been learning ruby for ~7 days and loving it ~except my brain is still stuck in C# mode. Ruby isn’t directly compatible with C# .dll files, but I found a workaround:
 
-<p align="left">
- <img width="200px" src="img.png" alt="qr"/>
-</p>
+> run localhost: and let C# send requests to it, and let ruby handle the logic
 
-i dont learned alot of knowledge in only 3 days of learning. dont know why it got named "ruby" but this language is very good!
-for me - looks like lua/luau but better
+## Why ruby
+- good to storage data on databases by using ruby
+- lua/luau but for databases
+- to create clean code
 
-like for example math in c#:
+for example, comparison with basic math:
 
 ```csharp
 double x = 25.5;
 int y = 15;
 double z = 0.05;
 
-if(x/5+y/2-z || !5+5=5)
-{
-   //megaphyshicssuperlogic
-}
-else
-{
-   //veryinsane
-}
+if (x/5 + y/2 - z || !5+5 == 5) { ... }
+else { ... }
 ```
 
 and in ruby its
@@ -39,30 +31,33 @@ and in ruby its
 x = 25.5
 y = 15
 z = 0.05
-
-if x/5+y/2-z || !5+5=5 then
-   # alot eazier
-else
-   # logic
-end
+if x/5 + y/2 - z || !5+5 == 5 then ...
+else ... end
 ```
 
-and we like saved 50% of code, in c# we can use "var" but still var is not for everything
-even comments eazier, not // its # but the problem of c-language coders is when you not writing ; everytime in end of line
-we also can create classes, databases, structures in ruby. ruby is basically for web but never seen in my life someone on ruby but always its ok 👍
+<p align="left">
+ <img width="200px" src="img.png" alt="qr"/>
+</p>
 
-also some new languages in my lest i need to learn: zig, nim, go, js, dart, lua/luau (IK LUA WITH LUAU ALR but need to relearn) learned PHP and forgot it in about just some months. and also idk who writes on php but i will never code on it
-know .js for 2 years and learned .dart a lil alr but only started. next day will be !better && console.log("good")
-returned: false
+> eazier syntax (# instead of //)
+> for web, databases, data structures, etc.
+> ruby knowledge needed to reverse my utils
+
+## Plans in future
+- learn **Zig, Nim, Go, JS, Dart, Lua/Luau** (lua=luau)
+- planning to move into leetcode soon
 
 # First results. (#4)
-this is all results of days 2 - 4, nothing really was changed from this time periods. was learning JS, HTML, Ruby and C#
-i got some complicated tasks in web app where i learning for C# but i completed it in like after ~7 mins. ruby is like ez but (sorry) 'trash' with ruby i cant even make executor (hope there's lib that can access with memory). (day 2 - 3) 
+## What was changed?
+- ruby: easy, but memory management is dead and sorry ('garbage')
+- c#: completed some complicated tasks
+- lua/luau: got ranked 1# on leaderboards in my coding app (on alt) 
+- html/css: can be mastered in ~35 days for big $ (without deep experience)
+- javascript: hard but trying
 
-got top 3 in my app to learn coding and 1# on my other account where learning lua/luau idk why this looks so easy for me
-html and css is also easy and can be fully learned in ~35 days to be web designer that can earn 20$ from one request to make site and i can make apps already without even learning it but javascript normally can take 5 - 7 months to make normal things
 backend can give heart with live to frontend application so i selected ruby for data/databases.
 
+(next days)
 my first nightmare after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
 
 # More (#5)
@@ -75,23 +70,37 @@ also recomendded this site for learning languages - learnxinyminutes.com
 
 # First changes (#8)
 this is my logs for day 5 - 8, in c# i learned how to work with arrays (by array class), counting, basic math and more. 
-completed first part of c#, [view](https://coddy.tech/certifications/XA2TGB-csharp-dAHyUu)
+completed first part of c#, [certificate](https://coddy.tech/certifications/XA2TGB-csharp-dAHyUu)
 
-got almost every task in first attempt. also now im learning smarter on 3/7 when 1yr ago it was overloaded on 9/7 (it was 20 hrs/day for all my plans and ofc i cant just sleep 4 hours)
+> got almost every task in first attempt. also now im learning smarter on 3/7 when 1yr ago it was overloaded on 9/7
 
-2 days left untill all my exams will end. and only in 3 months i learned alot of things (saying again). who dont knows i was learning reverse engineering also too# and i already hacked very big services that earns for example ~10.000$/year (not jk) learned how to use d.i.e (detect it easy), learned memory management with other procs, web-styling, listening/hosting, burping, sql injections, learned what is roblox lua bytecode and what is XOR Keys,. etc.
+two days left untill all my exams will end. learned alot of things in spring period from school/pc/documentations, who dont knows im learning reverse engineering too. hacked even most obfuscated exe/dll/web services, listening/hosting, burping, injections, xor keys, bytecode stuff, etc.
 
 and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
 
 # News (#11)
-sad news but currently i left from coding in dart. also my latest exam will be already in some hours (math helped me very much with coding)
+(day 10) sad news but currently i left from coding in dart. also my latest exam will be already in some hours (math helped me very much with coding)
 
 and in result changing to C (will be my worst nightmare ever) but it helps in assembly and reverse engineering. thx for reading
 
-writing this after day, left from one more language (GO)
-i really burned out with all my languages. so i decided to left from one more
+(day 11)
 
-not forgot about programming and today i learned JSON library from ruby, writted my first hi world program in nim. also learned a little about SQL in ruby
+*skipped latest day in school :( 
+^for note next exam only in ~5 months
+
+writing this after day, left from one more language (GO)
+really burned out with all my languages. so i decided to left from one more
+i dont see something big here. in the fact both projects (GO, Dart) was created by google
+
+i dont know good points in google programming languages
+
+not forgot about learning too and today i learned JSON library from ruby, writted my first hi world program in nim and basic math (nim is unique). also learned a little about SQL in ruby
 
 i will use nim to do things like: disabling windows defender (if false detections will occur), hiding and obfuscating something, more. 
 
+sad but still good day*~* **thanks for reading again.**
+(and also thanks for reaching 100 lines by reading this)
+
+<p align="left">
+ <img width="200px" src="left.png" alt="qr"/>
+</p>
