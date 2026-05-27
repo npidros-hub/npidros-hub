@@ -1,7 +1,7 @@
 ## 👋 Hello, Im [fullstack developer](https://www.coursera.org/articles/full-stack-developer)
 
 ### Some Info:
-* my name is alex :)! and im exploit dev
+* my name is alex. im exploit dev
 * know design too
 * favorite game is roblox. here's list of the languages i enjoyed
 * speaking on russian/english language, my list of programming languages:
