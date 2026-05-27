@@ -105,3 +105,169 @@ sad but still good day # **thanks for reading again.**
 <p align="left">
  <img width="200px" src="left.png" alt="trash"/>
 </p>
+
+# Math (#16)
+(day 12 - 13)
+**in this part im going to showcase everyone what i learned, almost everything is math and needs math so it took me 5 days ~(when normally 3 days)**
+
+this part is very overloaded with texts and documents, so i hidded everything. 
+open details section to view documentation
+
+```csharp
+Math.Sqrt();
+```
+<details>
+this thing will return square root of number you entered, for example in easy words: if number to use sqrt() method on it is 25 returned value going to be 5, because 5 * 5 = 25, like two numbers will be always exactly same. if you used 16 on it returned value will be 4, because 4 * 4 = 16
+</details>
+
+```csharp
+Math.Pow();
+```
+<details>
+so if you use 2 in first arg and 3 in other arg on it returned value will be 8. because you just used 2³. so 2 * 2 * 2 = 8! like first arg is what number you want to multiply and arg 2# is how much times you want to multiply it. if 2# arg will be 4 result is going to be 2⁴ 
+(2 * 2 * 2 * 2) (output: 16)
+</details>
+
+```csharp
+System.Linq.Average();
+```
+<details>
+dont know but if im not wrong valid answer is to find average number in array(s)
+</details>
+
+```csharp
+Math.Min();
+```
+<details>
+to find minium number, like if you use Math.Min(5, 6); output is = 5
+</details>
+
+```csharp
+Math.Max();
+```
+<details>
+to find maxium number. Math.Max(5, 6); output is = 6
+</details>
+
+#### Byte; and sbyte;
+<details>
+for very small numbers, both of them has 8 bits / 1 byte. byte range is from 0 to 255. and some time ago i published project on my profile named "Console Improvization" and i used bytes in one of my function args, like WriteLineRgb(byte r, byte g, byte b) (rgb range is from 0 to 255).
+
+also in math with bytes we need to use
+
+```csharp
+byte a = 10, b = 20;
+byte sum = (byte)(a + b);
+```
+
+because without (byte) this is going to be error
+
+sbyte is to save your disk space or memory. in sbyte allowed numbers from range -127 to 128
+(supports negative numbers, byte can allow only > 0 but sbyte can allow < 0)
+you can't use negative numbers on byte but sbyte allows it. by using it byte will return error.
+
+we also can work with math and sbyte! for this we need to use
+
+```csharp
+sbyte baseValue = 2;
+sbyte exponent = 3;
+
+double result = Math.Pow(baseValue, exponent);
+sbyte finalResult = (sbyte)result;
+```
+
+and result is going to be always 8
+</details>
+
+```csharp
+Dictionary<TKey, TValue>
+```
+<details>
+#1 arg is type key, #2 arg is type value
+
+objective: when we need to add user and unique id fast or object and their value but buzy to return into line where we added list of words or hard to work with it = dictionary will help
+
+for example:
+
+```csharp
+Dictionary<string, int> students = new Dictionary<string, int>();
+students.Add("Alice", 85);
+students.Add("Bob", 92);
+students.Add("Charlie", 78);
+```
+
+and done! everything has their unique id! not only words
+or we can make other dictionary types like <int, string>, etc.
+
+method 2:
+
+```csharp
+Dictionary<string, int> students = new Dictionary<string, int>
+{
+    {"Alice", 85},
+    {"Bob", 92},
+    {"Charlie", 78}
+};
+```
+
+if we want to check something here but dictionary is too big or overloaded:
+
+```csharp
+if (students.ContainsKey("Bob"))
+{
+    Console.WriteLine("Bob eats bob");
+}
+```
+
+to write all names and their unique ids
+
+```csharp
+foreach (KeyValuePair<string, int> kvp in students)
+{
+    Console.WriteLine($"student: {kvp.Key}, id: {kvp.Value}");
+}
+```
+
+we also can remove someone:
+```csharp
+students.Remove("Bob");
+```
+or even clear everything by using Clear();
+```students.Count();``` will return value of key-value pairs
+and etc.
+</details>
+
+### (Time to talk about nim)
+nim is very unique language. coding in nim holds instructions, for example:
+```nim
+var x: int = 5
+```
+and we just said: create var named x with integer type and valued 5
+when in other languages: create int x with value 5
+
+so we giving compiler more info about what we going to create
+or method 2: **var x = 5**
+
+i can also store multiple variables
+
+```nim
+var
+  a = 4
+  b = "yes"
+```
+
+comments like in ruby
+
+```nim
+#[
+yes
+multi
+ #[
+ multi comments
+ #]
+#]
+```
+
+i dont want to add more things, because i will reach 600 lines if im going to document every single thing here what i learned + styling them can take hours
+
+my brain almost exploded after learning that in 2 days so im currently trying to stop learning and focus on what i learned. thanks.
