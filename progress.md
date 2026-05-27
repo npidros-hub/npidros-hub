@@ -271,3 +271,5 @@ multi
 i dont want to add more things, because i will reach 600 lines if im going to document every single thing here what i learned + styling them can take hours
 
 my brain almost exploded after learning that in 2 days so im currently trying to stop learning and focus on what i learned. thanks.
+
+added two more projects, about how to secure your code and DRY. learned about it just today. also im middle+ if you want to be like me you can take info from both projects <:
