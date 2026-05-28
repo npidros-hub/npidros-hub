@@ -273,3 +273,41 @@ i dont want to add more things, because i will reach 600 lines if im going to do
 my brain almost exploded after learning that in 2 days so im currently trying to stop learning and focus on what i learned. thanks.
 
 added two more projects, about how to secure your code and DRY. learned about it just today. also im middle+ if you want to be like me you can take info from both projects <:
+
+(day 14)
+
+today i started learning zig programming language, zig is one of hardest programming languages for me, because all these unknown for me types i8, i32, i47, u64, i32, u32
+
+but zig is like nim in some things, like nim is:
+
+```nim
+var x: int = 5;
+```
+
+and in zig (collected this example from other guy)
+
+```zig
+const x: i32 = 47;
+```
+
+im currently using vscode for nim and online compilers for zig because there's no web-compilers for nim
+
+and i think if in zig when you working with memory only 1 small error will cause crash in your pc and black screen
+
+but its okay. please say me why you need these operators?? 
+```zig
++| <<| *| -%= .{} [_]
+```
+
+also i readed zig is c but better and i need to learn C before doing on zig
+
+[ityonemo](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) helped me alot
+all those stuff are very complicated with C so thanks to this guy
+
+
+**published** more projects on my profile, read if you want
+> [Code like Senior](https://github.com/npidros-hub/Proffesional-Code)
+<small> you want to be like senior in programming? this is for you! </small>
+
+> [Secure your game](https://github.com/npidros-hub/Shadow-Check)
+<small> exploiters can affect your game!? just read this. </small>
