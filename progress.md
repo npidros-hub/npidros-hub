@@ -383,3 +383,5 @@ std.debug.print("{s}: {d}\n", .{label, score});
 ```
 
 in this example im saying to compiler: ok, firstly im going to print string type named ```label``` and after decimal type named ```score``` (decimal = every number, can be negative or > 0) 
+
+> second type example
