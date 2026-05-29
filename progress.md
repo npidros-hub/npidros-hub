@@ -311,3 +311,33 @@ all those stuff are very complicated with C so thanks to this guy
 
 > [Secure your game](https://github.com/npidros-hub/Shadow-Check)
 <small> exploiters can affect your game!? just read this. </small>
+
+(day 15)
+
+today i started learning more things in zig programming language. also i randomly found this language named [rux](https://github.com/rux-lang/Web/blob/main/src/examples/Pointer.rux) 
+
+maybe i will never start using this but try rux if you want
+
+what i learned:
+
+| i  | u |
+| ------------- | ------------- |
+| Signed  | Unsigned |
+
+signed value types: number with symbol, can be negative and > 0 too
+
+unsigned value types: symbols are unallowed, only > 0
+
+> values: 8, 16, 32, 64, 128 (bits)
+
+i8 (8 bits) values: -128 to 127 (like sbyte), 
+
+u8 (8 bits) values: 0 to 255 (like byte in c#),
+
+i32 (32 bits) like normal int analog in other languages, 
+
+u64 (64 bits) values: 0 to 18 quintillions
+
+f32 = float, f64 = double
+
+i1 = (1 bit), values: 0 - 1, etc.
