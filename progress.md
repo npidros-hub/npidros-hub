@@ -371,3 +371,15 @@ asking it to print: "Hello, World"
 
 {s} = like we saying that now we going to print ```name``` and this is going to be string type
 .{name} = printing const string with "World" source
+
+or if we want to print something more this will be hungry games with our brain:
+
+```zig
+const score = 100;
+const label = "value";
+
+// output: value: 100
+std.debug.print("{s}: {d}\n", .{label, score}); 
+```
+
+in this example im saying to compiler: ok, firstly im going to print string type named ```label``` and after decimal type named ```score``` (decimal = every number, can be negative or > 0) 
