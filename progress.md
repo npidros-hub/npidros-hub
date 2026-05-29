@@ -355,3 +355,19 @@ pub fn main() void {
 i will explain, in first line we importing ```std``` library by ```@import```
 
 > to create main method we need to use ```pub fn```, pub = public, fn = function
+
+we have ```std.debug.print``` to print something, im by using that printing hello world message in my terminal.
+
+now you know. also by using ```\n``` we printing our message on next line. ```.{}``` is automatically **null type tuple** (list of arguments)
+
+i cant skip this one, because compiler will give me error. ```.{}``` is used to print arguments.
+
+```zig
+const name = "World";
+std.debug.print("Hello, {s}!\n", .{name});
+```
+
+asking it to print: "Hello, World"
+
+{s} = like we saying that now we going to print ```name``` and this is going to be string type
+.{name} = printing const string with "World" source
