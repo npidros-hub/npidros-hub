@@ -2,7 +2,7 @@
 i love memory managing, like write/read other procs mem
 and web-developement also too! so today im learning some new languages (for me and my knowledges)
 read messages below.
-I KNOW. this looks like im clown trying to learn something and you reading it. but my coding skills was really bad so i tried an a my own experiment to rank up from junior who knows only language basics and small things to middle/senior.   
+I Know. this looks like im clown trying to learn something and you reading it. but my coding skills was really bad so i tried an a my own experiment to rank up from junior+ who knows only language basics and small things to middle/senior.   
 
 # Week One (#1)
 I’ve been learning ruby for ~7 days and loving it ~except my brain is still stuck in C# mode. Ruby isn’t directly compatible with C# .dll files, but I found a workaround:
@@ -60,7 +60,7 @@ else ... end
 backend can give heart with live to frontend application so i selected ruby for data/databases.
 
 (next days)
-my first nightmare after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
+my first *nightmare* after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
 
 # More (#5)
 currently im more leaning on documentations. nothing new for today because exams. in js here's unique things like == and ===, in ruby 'unless' operator
@@ -215,7 +215,7 @@ if we want to check something here but dictionary is too big or overloaded:
 ```csharp
 if (students.ContainsKey("Bob"))
 {
-    Console.WriteLine("Bob eats bob");
+    Console.WriteLine("Bob eats bob"); //example with Bob
 }
 ```
 
@@ -294,12 +294,12 @@ im currently using vscode for nim and online compilers for zig because there's n
 
 and i think if in zig when you working with memory only 1 small error will cause crash in your pc and black screen
 
-but its okay. please say me why you need these operators?? 
+but its okay. please say me how to understand with that?? 
 ```zig
 +| <<| *| -%= .{} [_]
 ```
 
-also i readed zig is c but better and i need to learn C before doing on zig
+also i readed zig is [C]() but better and i need to learn C before doing on zig
 
 [ityonemo](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) helped me alot
 all those stuff are very complicated with C so thanks to this guy
@@ -382,6 +382,8 @@ const label = "value";
 std.debug.print("{s}: {d}\n", .{label, score}); 
 ```
 
-in this example im saying to compiler: ok, firstly im going to print string type named ```label``` and after decimal type named ```score``` (decimal = every number, can be negative or > 0) 
+in this example im saying to compiler: ok, firstly im going to print string type named ```label``` and after decimal type named ```score```
+
+(decimal = every number, can be negative or > 0) 
 
 > second type example
