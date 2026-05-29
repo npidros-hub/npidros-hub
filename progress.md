@@ -341,3 +341,17 @@ u64 (64 bits) values: 0 to 18 quintillions
 f32 = float, f64 = double
 
 i1 = (1 bit), values: 0 - 1, etc.
+
+```hello world``` in zig
+
+```zig
+const std = @import("std");
+
+pub fn main() void {
+     std.debug.print("Hello world!\n", .{});
+}
+```
+
+i will explain, in first line we importing ```std``` library by ```@import```
+
+> to create main method we need to use ```pub fn```, pub = public, fn = function
