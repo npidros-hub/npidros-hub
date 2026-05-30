@@ -391,3 +391,19 @@ in this example im saying to compiler: ok, firstly im going to print string type
 (day 16)
 latest day in this part
 
+we also can create our int32 types in zig (example from [@]()ityonemo)
+
+```zig
+const std = @import("std");
+
+fn foo() i32 {
+    return 47;
+}
+
+pub fn main() void {
+    var result = foo();
+    std.debug.print("foo: {}\n", .{result});
+}
+```
+
+but it will crash if we normally try to call ```foo();```
