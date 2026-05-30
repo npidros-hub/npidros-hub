@@ -330,13 +330,13 @@ unsigned value types: symbols are unallowed, only > 0
 
 > values: 8, 16, 32, 64, 128 (bits)
 
-i8 (8 bits) values: -128 to 127 (like sbyte), 
+*i8* (8 bits) values: -128 to 127 (like sbyte), 
 
-u8 (8 bits) values: 0 to 255 (like byte in c#),
+*u8* (8 bits) values: 0 to 255 (like byte in c#),
 
-i32 (32 bits) like normal int analog in other languages, 
+*i32* (32 bits) like normal int analog in other languages, 
 
-u64 (64 bits) values: 0 to 18 quintillions
+*u64* (64 bits) values: 0 to 18 quintillions
 
 f32 = float, f64 = double
 
@@ -387,3 +387,7 @@ in this example im saying to compiler: ok, firstly im going to print string type
 (decimal = every number, can be negative or > 0) 
 
 > second type example
+
+(day 16)
+latest day in this part
+
