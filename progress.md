@@ -407,3 +407,11 @@ pub fn main() void {
 ```
 
 but it will crash if we normally try to call ```foo();```
+
+# What next? (#18)
+i was buzy adding info to day 16 so it got almost nothing and uncompleted, maybe i will also comeback to coddy soon because i love documentations better, today i started learning ruby back again with zig and other languages too
+
+today i learned more ruby basics, apache kafka and rabbitMQ
+
+google if you want also read more about it
+
