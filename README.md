@@ -18,5 +18,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="30" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_cpZUqECHMUmhiW2NA5Iv0N5wH2icz1sVg&s" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" height="30" />
 </p>
