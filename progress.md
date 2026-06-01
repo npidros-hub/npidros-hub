@@ -415,3 +415,5 @@ today i learned more ruby basics, apache kafka and rabbitMQ
 
 google if you want also read more about it
 
+(day 18)
+today i went to learning basic reverse engineering and assembly instructions, like registers and ```mov``` instruction. 
