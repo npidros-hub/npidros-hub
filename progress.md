@@ -417,3 +417,24 @@ google if you want also read more about it
 
 (day 18)
 today i went to learning basic reverse engineering and assembly instructions, like registers and ```mov``` instruction. 
+
+now i know in zig we also can add value to something later with ```undefined``` operator
+(for example):
+```zig
+var b: i32 = undefined;
+```
+
+arrays in zig:
+```zig
+const a = [5]u8{ 'h', 'e', 'l', 'l', 'o' };
+```
+
+[5] is how much chars we got (array size) like here we got 5, u8 is child type
+if we dont know array size we can just put [_] without number
+
+```zig
+const array = [_]u8{ 'h', 'e', 'l', 'l', 'o' };
+const length = array.len;
+```
+
+or we can use ```array.len``` to get size of array
