@@ -12,6 +12,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/066/386/005/small/the-html5-logo-with-the-number-5-in-the-center-free-png.png" height="30" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaxu0x-zFmbSio7OTnbZ6ALHq0Yb-pjluzA&s" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" height="30" />
+  <img src="resources/assembly.png" height="33" />
   <img src="https://hermes.dio.me/skills/80d8ad21-6aec-4606-8f11-71d0058ca434.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/BatFileWindowsIcon.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="30" />
@@ -20,5 +21,4 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_cpZUqECHMUmhiW2NA5Iv0N5wH2icz1sVg&s" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" height="30" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRFJlOoRkccRKr335CGv2jab3ZOVh5sH1Pg&s" height="30"/>
 </p>
