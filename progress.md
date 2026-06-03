@@ -443,7 +443,7 @@ or we can use ```array.len``` to get size of array
 
 today i started learning more reverse engineering and assembly, and what im going to say = that assembly is not too hard
 
-yeah someone maybe thinks im mad now but i've learned basic assembly instructions already, like: ```mov rcx, rdx```, je, jne
+yeah someone maybe thinks im mad now but i've learned basic assembly instructions already, like: ```mov rcx, rdx```, je, jne, sub (-), add (+)
 
 and reversed one more popular project (xeno)
 
