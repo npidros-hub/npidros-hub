@@ -452,6 +452,10 @@ im trying to not overload my brain and changing from 100% keyboard -> 80% keyboa
 
 im sharing my life how i can
 
+<p align="left">
+ <img width="200px" src="goodenough.png" alt="qr"/>
+</p>
+
 +kotlin
 > im not using kotlin programming language to write big mobile apps, im trying to understand how to find useful things like offsets for mobile (lvl upping my reverse skills and working with mobile stuff)
 
@@ -469,7 +473,3 @@ fun main()
 ```
 
 i dont think we have that also in other languages but we dont need to store result and after call it, we just can use this code (fun = function)
-
-<p align="left">
- <img width="200px" src="goodenough.png" alt="qr"/>
-</p>
