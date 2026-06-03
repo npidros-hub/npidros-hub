@@ -455,6 +455,8 @@ im sharing my life how i can
 +kotlin
 > im not using kotlin programming language to write big mobile apps, im trying to understand how to find useful things like offsets for mobile (lvl upping my reverse skills and working with mobile stuff)
 
+good fact: ```const``` in kotlin is ```val```
+
 <p align="left">
  <img width="200px" src="goodenough.png" alt="qr"/>
 </p>
