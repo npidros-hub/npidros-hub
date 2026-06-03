@@ -438,3 +438,19 @@ const length = array.len;
 ```
 
 or we can use ```array.len``` to get size of array
+
+(day 19 - 20)
+
+today i started learning more reverse engineering and assembly, and what im going to say = that assembly is not too hard
+
+yeah someone maybe thinks im mad now but i've learned basic assembly instructions already, like: ```mov rcx, rdx```, je, jne
+
+and reversed one more popular project (xeno)
+
+its hard to save what i learned past days ago, all info what i got.
+im trying to not overload my brain and changing from 100% keyboard -> 80% keyboard to type faster
+
+im sharing my life how i can
+
++kotlin
+> im not using kotlin programming language to write big mobile apps, im trying to understand how to find useful things like offsets for mobile (lvl upping my reverse skills and working with mobile stuff)
