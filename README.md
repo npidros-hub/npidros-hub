@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="32" />
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="30" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/066/386/005/small/the-html5-logo-with-the-number-5-in-the-center-free-png.png" height="30" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaxu0x-zFmbSio7OTnbZ6ALHq0Yb-pjluzA&s" height="30" />
+  <img src="resources/zig.png" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" height="30" />
   <img src="resources/assembly.png" height="33" />
   <img src="https://hermes.dio.me/skills/80d8ad21-6aec-4606-8f11-71d0058ca434.png" height="30" />
