@@ -457,6 +457,19 @@ im sharing my life how i can
 
 good fact: ```const``` in kotlin is ```val```
 
+kotlin also has unique math stuff
+
+```kotlin
+fun main()
+{
+   val x = 5
+   val y = 5
+   println("the result is ${x + y}")
+}
+```
+
+i dont think we have that also in other languages but we dont need to store result and after call it, we just can use this code (fun = function)
+
 <p align="left">
  <img width="200px" src="goodenough.png" alt="qr"/>
 </p>
