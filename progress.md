@@ -473,3 +473,7 @@ fun main()
 ```
 
 i dont think we have that also in other languages but we dont need to store result and after call it, we just can use this code (fun = function)
+
+# Powerful Section (#23)
+(day 21)
+today i almost completed all of the kotlin programming language basics and starting OOP soon. learned something about while() loop and basics. today i also reversed solara icons by deobfuscating solara bootstrapper.
