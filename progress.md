@@ -63,22 +63,23 @@ backend can give heart with live to frontend application so i selected ruby for 
 my first *nightmare* after chilling in c# on someone exploit-apis and done im 'senior' dev was thing called "leetcode". eazy-difficuilted tasks was really ez and can be completed in 1 - 8 mins. but when i tried hard ones i died 
 
 # More (#5)
-currently im more leaning on documentations. nothing new for today because exams. in js here's unique things like == and ===, in ruby 'unless' operator
+currently im more leaning on documentations. nothing new for today because exams. in **JS** (JavaScript) here's unique things like == and ===, in ruby 'unless' operator
 
-and more. maybe in next day i will go nim or zig and after golang 
+and more. in next day i will go nim or zig and after golang 
 these 3 languages have syntax that i never seen before
 
 also recomendded this site for learning languages - learnxinyminutes.com
 
 # First changes (#8)
 this is my logs for day 5 - 8, in c# i learned how to work with arrays (by array class), counting, basic math and more. 
+
 completed first part of c#, [certificate](https://coddy.tech/certifications/XA2TGB-csharp-dAHyUu)
 
 > got almost every task in first attempt. also now im learning smarter on 3/7 when 1yr ago it was overloaded on 9/7
 
-two days left untill all my exams will end. learned alot of things in spring period from school/pc/documentations, who dont knows im learning reverse engineering too. got source of even most obfuscated exe/dll/web services, listening/hosting, burping, injections, xor keys, bytecode stuff, etc.
+two days left untill all my exams will end. learned alot of things in spring period from school/programs/documentations, who dont knows im learning reverse engineering too. got source of even most obfuscated exe/dll/web services, listening/hosting, burping, injections, xor keys, bytecode stuff, etc.
 
-and im very happy from those day~^ thx for reading my message~ other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
+thanks for reading my message. other days will be funnier with classes, lists, hashes and c# dirictories. maybe i will also host something open-sourced by me
 
 # News (#11)
 (day 10) sad news but currently i left from coding in dart. also my latest exam will be already in some hours (math helped me very much with coding)
@@ -87,7 +88,7 @@ and in result changing to C (will be my worst nightmare ever) but it helps in as
 
 (day 11)
 
-completed all exams, next will be in ~6 months
+completed all my exams and next will be in ~6 months
 
 writing this after day, left from one more language (GO)
 really burned out with all my languages. so i decided to left from one more
@@ -99,8 +100,8 @@ not forgot about learning too and today i learned JSON library from ruby, writte
 
 i will use nim to do things like: disabling windows defender (if false detections will occur), hiding and obfuscating tools to make it ud, more. 
 
-sad but still good day # **thanks for reading again.**
-(and also thanks for reaching 100 lines by reading this)
+sad but still good day # **good reading**
+(thanks for reaching first 100 lines)
 
 <p align="left">
  <img width="200px" src="left.png" alt="trash"/>
@@ -277,6 +278,7 @@ added two more projects, about how to secure your code and DRY. learned about it
 (day 14)
 
 today i started learning zig programming language, zig is one of hardest programming languages for me, because all these unknown for me types i8, i32, i47, u64, i32, u32
+> started zig for memory editing and windows stuff
 
 but zig is like nim in some things, like nim is:
 
