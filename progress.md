@@ -479,3 +479,6 @@ i dont think we have that also in other languages but we dont need to store resu
 # Powerful Section (#23)
 (day 21)
 today i almost completed all of the kotlin programming language basics and starting OOP soon. learned something about while() loop and basics. today i also reversed solara icons by deobfuscating solara bootstrapper.
+
+(day 24)
+i was offline for alot of time cuz recently i was working on my project. i also need to lvl up my memory skills and learn something useful. im going to contiue with apache kafka
