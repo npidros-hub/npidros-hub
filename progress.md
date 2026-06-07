@@ -482,3 +482,40 @@ today i almost completed all of the kotlin programming language basics and start
 
 (day 24)
 i was offline for alot of time cuz recently i was working on my project. i also need to lvl up my memory skills and learn something useful. im going to contiue with apache kafka
+
+in kotlin we have constructors, there's two types of them: secondary, primary
+(example)
+
+```kotlin
+class Person(val name: String, var age: Int) { // Primary constructor
+
+    // Secondary constructor
+    constructor(name: String) : this(name, 0) { 
+        println("secondary constructor called for $name")
+    }
+}
+```
+
+to use primary constructors we just can use example below, without using new() 
+
+```kotlin 
+val user = Person("Alice", 25)
+```
+
+in secondary constructors we cant use val/var keywords. to use arguments you dont need to exactly add it. ```name: String```
+
+example: 
+
+Imagine the Primary constructor is a strict security guard at the door of club "Person". He has a strict rule: "I will only let you in if you have BOTH a Name AND an Age."
+
+you call the Secondary constructor: Person("Alice"). You only give a name.
+
+thehe Secondary constructor (your helper) knows the guard will not let you in like this.
+
+so, using the trick : this(name, 0), the helper takes your name "Alice", makes up an age 0, and gives both to the guard (the primary constructor).
+
+the guard is happy now (he gets both a name and an age), creates the person, and lets them in.
+
+the main point: The primary constructor creates the actual person, and the secondary constructor just helps you when you do not have all the information (like the age).
+
+<sub>(used translator for it)</sub>
