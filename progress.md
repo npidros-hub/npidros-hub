@@ -519,3 +519,13 @@ the guard is happy now (he gets both a name and an age), creates the person, and
 the main point: The primary constructor creates the actual person, and the secondary constructor just helps you when you do not have all the information (like the age).
 
 <sub>(used translator for it)</sub>
+
+(day 27)
+
+i learned kafka and this video helped me alot.
+
+this video explains the core concepts of kafka perfectly. ([link](https://www.youtube.com/watch?v=QkdkLdMBuL0))
+
+this one explains base about frontend. ([link](https://www.w3schools.com/htmlcss/))
+
+at this moment im working on security software engineering and on some big projects. save my profile if you need more story about what i learned
