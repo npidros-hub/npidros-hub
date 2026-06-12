@@ -528,4 +528,53 @@ this video explains the core concepts of kafka perfectly. ([link](https://www.yo
 
 this one explains base about frontend. ([link](https://www.w3schools.com/htmlcss/))
 
-at this moment im working on security software engineering and on some big projects. save my profile if you need more story about what i learned
+at this moment im working on security software engineering and on some projects. save my profile if you need more story about what i learned
+
+(day 29)
+in zig, we also normally have imports from other files like in any other programming languages. this is a simple example of this:
+
+```zig
+const user = @import("core/example.zig").User;
+```
+
+```zig
+//core/example.zig
+pub const User = struct {
+    power: u64,
+    name: []const u8,
+}; //we need to make it public everytime to make it static
+```
+
+> credits: zig-lang website
+
+also in this example i showcased how do structure being realized in zig! 
+structures also can contain methods 
+
+```zig
+//core/example.zig
+pub const User = struct {
+    power: u64 = 0,
+    name: []const u8,
+
+    pub const SUPER_POWER = 9000;
+
+    fn diagnose(user: User) void {
+        if (user.power >= SUPER_POWER) {
+            std.debug.print("how! power more than {d}!!!", .{SUPER_POWER});
+        }
+    }
+};
+```
+
+> one more note: in function arguments we saying that user = User (our structure) to check power by using user.power, if this arg will be deleted this code cant be compiled anyone.
+
+we also got this one:
+
+```zig
+const a = [_]i32{1, 2, 3, 4, 5};
+const b = a[1..4];
+```
+
+looks ok but what happends ```b``` constant??
+
+simple answer: this thing named 'cutted constant', if we have ```const a``` with 5 numbers and ```const b``` with ```a[1..4]``` if we try to output ```b``` in console the output will be: ```2, 3, 4```.  we just cutted constant in our first time! (4 is being ignored to be cutted)
