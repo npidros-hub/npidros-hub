@@ -4,6 +4,8 @@ and web-developement also too! so today im learning some new languages (for me a
 read messages below.
 I Know. this looks like im clown trying to learn something and you reading it. but my coding skills was really bad so i tried an a my own experiment to rank up from junior+ who knows only language basics and small things to middle/senior.   
 
+> I can make errors in text, so please dont hate me.
+
 # Week One (#1)
 I’ve been learning ruby for ~7 days and loving it ~except my brain is still stuck in C# mode. Ruby isn’t directly compatible with C# .dll files, but I found a workaround:
 
